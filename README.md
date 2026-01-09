@@ -45,7 +45,7 @@ I'm a **Senior Full Stack Developer** and **DevOps Engineer** with strong expert
 **核心能力：**
 - 🎯 **主力技术栈：** Java 生态（Spring Boot、Spring Cloud）
 - 🐍 **副技术栈：** Python（Django、FastAPI）、Node.js（Express、Nest.js）
-- 🚀 **正在学习：** Go（Golang���微服务开发
+- 🚀 **正在学习：** Go（Golang Gin | gRPC | 微服务开发)
 - ☁️ **运维能力：** Docker、Kubernetes、CI/CD、云架构
 - 💾 **数据库：** MySQL、PostgreSQL、MongoDB、Redis
 - 🏗️ **架构设计：** 微服务、分布式系统、高可用架构
@@ -74,10 +74,11 @@ I'm a **Senior Full Stack Developer** and **DevOps Engineer** with strong expert
 NutriMate 是一款专为医疗机构临床营养科打造的院级智能管理平台。采用 AI 技术赋能营养治疗全流程，提供从患者筛查评估、智能处方推荐到个性化干预的一站式解决方案。
 
 **Tech Stack:**
-- Backend: Java + Spring Boot
+- Frontend: Vue 3.x  + Vite  + Tauri
+- Backend: Python (FastAPI)  + Go (Gin + GORM)
 - Architecture: CS + BS 混合架构
 - AI: 智能推荐引擎
-- Database: MySQL + Redis
+- Database: Postgres + Redis + Milvus
 
 **Features:**
 - ✅ 患者智能筛查评估
@@ -96,10 +97,10 @@ NutriMate 是一款专为医疗机构临床营养科打造的院级智能管理�
 为社区居民打造的数字化服务平台，支持微信小程序、小红书小程序和 H5 网页三端访问。提供社区服务、信息发布、居民互动等功能。
 
 **Tech Stack:**
-- Frontend: TypeScript + React
-- Mini Program: 微信小程序 + 小红书小程序
+- Frontend: TypeScript + React + Taro
+- Mini Program: 微信小程序 + 小红书小程序  + H5
 - Backend: Node.js + Express
-- Database: MongoDB
+- Database: Postgres
 
 **Features:**
 - ✅ 三端统一访问（微信/小红书/H5）
@@ -119,9 +120,9 @@ LittleCrawler（小爬虫）支持小红书（xhs）、知乎（zh）、闲鱼�
 
 **Tech Stack:**
 - Language: Python 3.x
-- Framework: Scrapy + Requests
+- Framework: Scrapy + Requests + playwright
 - Data Processing: Pandas
-- Storage: MySQL + JSON
+- Storage: MySQL + JSON + CSV + Postgres
 
 **Features:**
 - ✅ 多平台支持（小红书/知乎/闲鱼）
