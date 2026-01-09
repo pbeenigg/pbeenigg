@@ -312,10 +312,10 @@ LittleCrawler（小爬虫）支持小红书（xhs）、知乎（zh）、闲鱼�
 ### 🎯 2026 Goals | 2026年目标
 <div align="center">
   
-- 🚀 Master Go (Golang) for high-performance microservices
-- ☁️ AWS/Azure Certified Solutions Architect
-- 📚 Contribute more to open-source projects
-- 🌟 Build and launch 3 production-ready applications
+🚀 Master Go (Golang) for high-performance microservices  
+☁️ AWS/Azure Certified Solutions Architect  
+📚 Contribute more to open-source projects  
+🌟 Build and launch 3 production-ready applications  
   
 </div>
 ---
