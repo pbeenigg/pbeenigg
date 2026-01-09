@@ -76,7 +76,6 @@ NutriMate 是一款专为医疗机构临床营养科打造的院级智能管理�
 **Tech Stack:**
 - Frontend: Vue 3.x  + Vite  + Tauri
 - Backend: Python (FastAPI)  + Go (Gin + GORM)
-- Architecture: CS + BS 混合架构
 - AI: 智能推荐引擎
 - Database: Postgres + Redis + Milvus
 
@@ -98,7 +97,7 @@ NutriMate 是一款专为医疗机构临床营养科打造的院级智能管理�
 
 **Tech Stack:**
 - Frontend: TypeScript + React + Taro
-- Mini Program: 微信小程序 + 小红书小程序  + H5
+- Platform: 微信小程序 + 小红书小程序  + H5
 - Backend: Node.js + Express
 - Database: Postgres
 
