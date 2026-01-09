@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- 动画 Logo -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there+%F0%9F%91%8B+I'm+pbeenigg;Full+Stack+Developer+%7C+DevOps+Engineer;Backend+Specialist+%7C+Cloud+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there+%F0%9F%91%8B+I'm+Pax;Full+Stack+Developer+%7C+DevOps+Engineer;Backend+Specialist+%7C+Cloud+Architecture" alt="Typing SVG" />
 
 <br/>
 
@@ -212,26 +212,10 @@ LittleCrawler（小爬虫）支持小红书（xhs）、知乎（zh）、闲鱼�
 
 ---
 
-## 📊 GitHub Stats | 使用统计
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pbeenigg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbeenigg&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
-
-</div>
-
 <div align="center">
 
 ### 📈 Contribution Graph | 贡献图表
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pbeenigg&theme=tokyo-night&hide_border=true)](https://github.com/pbeenigg)
-
-</div>
-
-<div align="center">
-
-### 🔥 Streak Stats | 连续贡献
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pbeenigg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -316,13 +300,6 @@ LittleCrawler（小爬虫）支持小红书（xhs）、知乎（zh）、闲鱼�
 
 </div>
 
-<div align="center">
-
-### 📝 Latest Blog Posts | 最新博客文章
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-</div>
 
 ---
 
