@@ -237,16 +237,6 @@ LittleCrawler（小爬虫）支持小红书（xhs）、知乎（zh）、闲鱼�
 
 ---
 
-## 🏆 GitHub Trophies | 成就徽章
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pbeenigg&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/pbeenigg)
-
-</div>
-
----
-
 ## 💼 Professional Skills | 专业技能
 
 <table>
